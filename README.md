@@ -12,3 +12,5 @@ Tickets: Facilitates the sale of tickets for matches. Each ticket is associated 
 Fans: Allows fans to purchase tickets and attend matches. Fan profiles include personal information such as name, national ID, birth date, address, and phone number.
 System Admin: Provides administrative functions such as adding/deleting clubs, stadiums, and temporarily blocking fans from using the system.
 User Authentication: Users are required to log in with a username and password to access the system.
+
+Collaborators: 1-youssef maged 2-youssef raed 3-kirollos magdy
